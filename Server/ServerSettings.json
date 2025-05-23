@@ -1,0 +1,12 @@
+{
+  "server_port" : "0",
+
+  "multicast_ip" : "0",
+  "multicast_port" : "0",
+
+  "letters" : "10",
+  "max_tries" : "12",
+
+  "n_threads" : "0",
+  "reset_time" : "100"
+}

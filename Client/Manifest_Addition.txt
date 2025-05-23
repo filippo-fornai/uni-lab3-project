@@ -1,0 +1,4 @@
+Main-Class: WordleClientMain
+Class-Path: gson-2.10.1.jar
+
+
